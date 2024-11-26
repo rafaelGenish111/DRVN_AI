@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.modal {
+  width: 300px;
+  height: 350px;
+  background-color: coral;
+  color: green;
+  text-align: center;
+  font-size: large;
+  font-style: unset;
+}
+
+.timebar {
+  width: 250px;
+  height: 25px;
+}
+
+.progress {
+  height: 25px;
+  background-color: wheat;
+}
+
+.content {
+  background-color: dodgerblue;
+  height: 60%;
+}
